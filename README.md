@@ -1,1 +1,1 @@
-# Z-API
+# EdgeOneAI OpenAI Proxy
